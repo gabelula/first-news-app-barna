@@ -1,1 +1,1 @@
-Movido a [http://github.com/gabelula/first-news-app-barna/](http://github.com/gabelula/first-news-app-barna/)
+Movido a [http://github.com/gabelula/first-news-app-presentacion-barna/](http://github.com/gabelula/first-news-app-presentacion-barna/)
